@@ -1,0 +1,4 @@
+﻿  main_prac6.cpp
+c:\users\javie\desktop\practica6_clase\practica6_clase\proyecto01\main_prac6.cpp(40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  proyecto01.vcxproj -> C:\Users\javie\Desktop\PRACTICA6_CLASE\PRACTICA6_CLASE\Debug\proyecto01.exe
+  proyecto01.vcxproj -> C:\Users\javie\Desktop\PRACTICA6_CLASE\PRACTICA6_CLASE\Debug\proyecto01.pdb (Full PDB)
